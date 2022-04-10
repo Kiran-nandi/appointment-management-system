@@ -7,7 +7,26 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
- ## Installation Guide
+## Tech Stack Used
+ Laravel 8th version
+
+## Installation Guide
 
 Just Zip the code and download it in your machine. Mysql file is also included in the repository. After downloading extract in a folder and open the folder in Visual studio code and open the terminal and run the command php artisan serve.
+
+## Overview
+
+I approached this project by drawing three dashboards using paper and pen and found what what will be the common and different point between them and first started with database architect which helped me to code accordingly. i haven't faced any issue while developing it.
+
+## Time to complete this project
+
+it took around 10 hours for me to complete it.
+
+## Pending 
+
+i have started with reactjs but facing some issues in my machine with npm versions. Trying to sort that first once its resolved will start working on it.
+
+## Sql 
+
+Sql file is also included in repository.
 
