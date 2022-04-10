@@ -59,3 +59,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+##installation Guide
+
+Just Zip the code and download it in your machine. Mysql file is also included in the repository. After downloading extract in a folder and open the folder in Visual studio code and open the terminal and run the command php artisan serve.
+
